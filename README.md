@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [anishchapagain.com] (anishchapagain.com)
-
+- 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
 - 💬 Ask me about **Web Scraping, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
 - Looking for 💬 **Data, Quality data** from any websites whenever required in any format **(CSV/JSON/Sqlite3, RDBMS-Table, S3...)**
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **web security related measures**!
 - 📫 Looking for **QA on dataset, EDA reports, Visualization DashBoard, Historical Data**
 - 📫  Willing to get trained in **Python/ML/AI/Data Science/Anti-Scraping/Personal Mentor/Leadership skills**
-- 
 - 💬 How to reach me **anishchapagain.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="30" width="40" /></a>
+<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
