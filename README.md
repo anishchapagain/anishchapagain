@@ -41,6 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishchapagain&" alt="anishchapagain" /></p>
 <hr/>
-<p>
- Education: **Araniko Boarding School, Jyoti English School, Siddhartha Vanasthali Institute, Campion College, Himalayan Whitehouse College, Bangor University**
+<p align="left">
+- Education: **Araniko Boarding School | Jyoti English School | Siddhartha Vanasthali Institute | Campion College | Himalayan Whitehouse College | Bangor University**
 </p>
