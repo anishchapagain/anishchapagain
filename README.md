@@ -11,7 +11,7 @@
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **web security related measures**!
 - 📫 Looking for **QA on dataset, EDA reports, Visualization DashBoard, Historical Data**
 - 📫  Willing to get trained in **Python/ML/AI/Data Science/Anti-Scraping/Personal Mentor/Leadership skills**
-- 💬 How to reach me **anishchapagain.com**
+- 💬 How to reach me **[http://www.anishchapagain.com]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishchapagain&show_icons=true&locale=en" alt="anishchapagain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishchapagain&" alt="anishchapagain" /></p>
+<hr/>
+<p>
+ Education: **Araniko Boarding School, Jyoti English School, Siddhartha Vanasthali Institute, Campion College, Himalayan Whitehouse College, Bangor University**
+</p>
