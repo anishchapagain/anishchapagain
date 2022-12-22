@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a> </p>
 
-- 👨‍💻 All of my projects are available at (anishchapagain.com)
+- 👨‍💻 All of my projects are available at [anishchapagain.com]
 
 - 💬 Ask me about **Web Scraping, MLOps, AI, Data Science, Quality Analysis**
 - Looking for 💬 **Data, Quality data** from any websites whenever required in any format **(CSV/JSON/SqlLite3, RDBMS-Table, S3...)**
