@@ -5,10 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
 - 💬 Ask me about **Web Scraping, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
-- Looking for 💬 **Data, Quality data** from any websites whenever required in any format **(CSV/JSON/Sqlite3, RDBMS-Table, S3...)**
-- 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **web security related measures**!
-- 📫 Looking for **QA on dataset, EDA reports, Visualization DashBoard, Historical Data**
-- 📫  Willing to get trained in **Python/ML/AI/Data Science/Anti-Scraping/Personal Mentor/Leadership skills**
+- Looking for 💬 **Data, Quality data** from any websites whenever required in any format **(CSV/Parquet/JSON/Sqlite3, RDBMS-Table, S3...)**
+- 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures
+- 📫 Looking for **QA on dataset, EDA reports, Visualization DashBoard, Historical Data, Time Series Data...**
+- 📫 Willing to get trained in **Python/ML/AI/Data Science/Anti-Scraping/Personal Mentor/Leadership skills...**
 - 💬 How to reach me **[http://www.anishchapagain.com]**
 <hr/>
 <h3 align="left">Connect with me:</h3>
