@@ -4,8 +4,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=Profile%20views&color=0e75b6&style=flat" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
-- 💬 Ask me about **Data Analysis, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
-- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping  | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
+- 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
+- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - Xath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**
 - 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/Web-Scraping/Anti-Scraping/PersonalMentor/LeadershipSkills...**
