@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
 - 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
-- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - Xath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
+- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**
 - 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/Web-Scraping/Anti-Scraping/PersonalMentor/LeadershipSkills...**
