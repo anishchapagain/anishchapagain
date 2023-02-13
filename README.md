@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
 <h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
 <hr/>
-<p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=Profile%20views&color=0e75b6&style=flat" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
+<p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
 - 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
