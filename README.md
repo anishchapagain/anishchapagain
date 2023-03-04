@@ -40,5 +40,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchapagain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 <hr/>
 <p align="left">
-- Education: **Araniko Boarding School | Jyoti English School | Siddhartha Vanasthali Institute | Campion College | Himalayan Whitehouse College | Bangor University**
+- Education: **Araniko Boarding School-Biratnagar, Nepal | Jyoti English School-Dhangadi, Nepal | Siddhartha Vanasthali Institute-Kathmandu, Nepal | Campion College-Kathmandu, Nepal | Himalayan Whitehouse College-Kathmandu, Nepal | Bangor University-Bangor,Wales,UK**
 </p>
