@@ -3,7 +3,7 @@
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
-- Looking to hire CTO, Senior Porject Managers, IT Consulation contact **[anishchapagain(at)gmail(dot)com]**<br/>
+- Looking to hire CTO, Senior Project Manager, IT Consulation contact **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]<br/>
 - 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**<br/>
 - **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
