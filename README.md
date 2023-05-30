@@ -15,11 +15,13 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a> || <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="40" width="50"/> </a> || <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="40" width="50"/></a>
+<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a>
 </p>
 <hr/> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://spark.apache.org/"><img src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png" height="90" width="120"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="90" width="120"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="90" width="120"/></a>
 <a href="https://scikit-learn.org/"><img src="https://spark.apache.org/images/scikit-learn.png" height="90" width="120"></a>
 <a href="https://pandas.pydata.org/"><img src="https://spark.apache.org/images/pandas.png" height="90" width="120"></a>
 <a href="https://www.tensorflow.org/"><img src="https://spark.apache.org/images/tf_logo_social.png" height="90" width="120"></a>
