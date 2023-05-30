@@ -3,7 +3,7 @@
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
-- Looking to hire CTO, Senior Porject Managers, IT Consulation contact anishchapagain(at)gmail(dot)com<br/>
+- Looking to hire CTO, Senior Porject Managers, IT Consulation contact **[anishchapagain(at)gmail(dot)com]**<br/>
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]<br/>
 - 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**<br/>
 - **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
@@ -15,7 +15,7 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="100" width="95"/><img src="http://www.anishchapagain.com/second.jpg" height="100" width="95"/></a>
+<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="90" width="75"/><img src="http://www.anishchapagain.com/second.jpg" height="90" width="75"/></a>
 </p>
 <hr/> 
 <h3 align="left">Languages and Tools:</h3>
