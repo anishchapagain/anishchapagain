@@ -3,14 +3,14 @@
 <hr/>
 <p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="120" width="90"/><img src="http://www.anishchapagain.com/second.jpg" height="120" width="90"/></a> </p>
 <hr/>
-- Looking to hire CTO, Senior Porject Managers, IT Consulation contact anishchapagain(at)gmail(dot)com
-- 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
-- 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
-- **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**
-- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
-- 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures
-- 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**
-- 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/ Web-Scraping/ Anti-Scraping/PersonalMentor/Leadership Skills...**
+- Looking to hire CTO, Senior Porject Managers, IT Consulation contact anishchapagain(at)gmail(dot)com<br/>
+- 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]<br/>
+- 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**<br/>
+- **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
+- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**<br/>
+- 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures<br/>
+- 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
+- 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/ Web-Scraping/ Anti-Scraping/PersonalMentor/Leadership Skills...**<br/>
 - 💬 How to reach me **[http://www.anishchapagain.com]**
 <hr/>
 <h3 align="left">Connect with me:</h3>
