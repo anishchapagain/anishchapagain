@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
 <h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
 <hr/>
-<p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="100" width="100"/><img src="http://www.anishchapagain.com/second.jpg" height="100" width="100"/></a> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain" /><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="100" width="100"/><img src="http://www.anishchapagain.com/second.jpg" height="100" width="100"/></a><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a> </p>
 <hr/>
 - Looking to hire CTO, Senior Porject Managers, IT Consulation contact anishchapagain(at)gmail(dot)com<br/>
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]<br/>
