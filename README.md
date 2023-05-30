@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 - Looking to hire CTO, Senior Porject Managers, IT Consulation contact anishchapagain(at)gmail(dot)com
 - 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]
-- <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="120" width="90"/><img src="http://www.anishchapagain.com/second.jpg" height="120" width="90"/></a>
+<p><a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="120" width="90"/><img src="http://www.anishchapagain.com/second.jpg" height="120" width="90"/></a></p>
 - 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**
 - **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f41a.png?v8" height="30" width="30" /> | <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ef-1f1f2.png?v8" height="30" width="30" /> 
 - Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**
