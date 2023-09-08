@@ -1,10 +1,10 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
 <h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
 <ul>
-<li><i>“The measure of intelligence is the ability to change.” <b>— Albert Einstein</b></i></li>
-<li><i>"Knowledge is a treasure, but practice is the key to it." <b>—Thomas Fuller</b></i></li>
+<li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b>—Sadhguru</b></i></li>
+<li><i>“The measure of intelligence is the ability to change”<b>— Albert Einstein</b></i></li>
+<li><i>"Knowledge is a treasure, but practice is the key to it"<b>—Thomas Fuller</b></i></li>
 </ul>
-
 <hr/>
 <h3 align="left"> Can't ignore </h3>
 <p align="left">
@@ -66,7 +66,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchapagain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 <hr/>
 <p align="left">
-<i>Life is fluid, ever-evolving ..... Whatever your goal in life, unless you develop a great urgency, what could be near will be far away</i><img src="https://play-lh.googleusercontent.com/mUlaWjQsKr6guWoqSbax57X6gRq9qxWFfA0W_Sury0aV4fqF23mc1Lzkbt2Hrnpj2A" width="140" height="160" alt="Sadhguru"/>
+<img src="https://play-lh.googleusercontent.com/mUlaWjQsKr6guWoqSbax57X6gRq9qxWFfA0W_Sury0aV4fqF23mc1Lzkbt2Hrnpj2A" width="140" height="160" alt="Sadhguru"/>
 </p>
 <hr/>
 <p align="left">
