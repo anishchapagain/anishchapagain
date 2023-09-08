@@ -33,8 +33,8 @@
 <hr/> 
 <h3 align="left">Publications:</h3>
 <p align="left">
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="150" width="120"/></a>
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="150" width="120"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="https://static.packt-cdn.com/products/9781789533392/cover/smaller"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1837636211"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
 </p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
@@ -72,3 +72,9 @@
 <p align="left">
 - Education: **Araniko Boarding School - Biratnagar, Nepal | Jyoti English School - Dhangadi, Nepal | Siddhartha Vanasthali Institute - Kathmandu, Nepal | Campion College - Kathmandu, Nepal | Himalayan Whitehouse College - Kathmandu, Nepal | Bangor University - Bangor,Wales,UK**
 </p>
+<hr/>
+<p><small><i> Westindies | Cricket | Italy | Football | Middletown - CT | Brian Lara | Nicholos Pooran | Lendl Simmons | Chris Gayle | Dwayne Bravo | Champion | Carl Hooper | Johnson Charles | Marlon Samuels | Sunil Narine | Andrew Fletcher | Andre Russell | WT20 2016 | Dwayne Smith | Shai Hope | Curtly Ambrose | Courtney Walsh | Carlos Braithwaite | 19 of final over | 4 sixes | The Big Bull | Mahadev | Saraswati | Peter | Undertaker | Jaggi Basudev | Shivnarine | Chanderpaul | Buffon | Baggio | Zidane | Stratford | Bangor | New Delhi | MysticNepal | Technological | Automation | 1789533392 | 9781789533392 | Packt Publishing | 1837636211 | 9781837636211 | Sauraha | Rhino | Bear | Elephant | Crocodile | Peacock | Wild Boar</i></small></p>
+<hr />
+<center>
+ <img src="http://www.anishchapagain.com/qrcode.png" alt="Pay Anish Chapagain" width="200" height="200" />
+</center>
