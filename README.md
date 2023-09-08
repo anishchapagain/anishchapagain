@@ -1,29 +1,39 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
 <h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
+<i>“The measure of intelligence is the ability to change.” — Albert Einstein.</i>
+<hr/>
+<h3 align="left"> Can't ignore </h3>
+<p align="left">
+<i>honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
+</p>
+<h3 align="left"> Projects are life-less without </h3>
+<p align="left">
+<i> planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. </i>
+</p>
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
-- Looking to hire CTO, Senior Project Manager, IT Consulation contact **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
-- 👨‍💻 All of my projects are available at [http://www.anishchapagain.com]<br/>
-- 💬 Ask me about **Data Analysis, Regular Expression, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science-Engineering-Analysis, Quality Analysis**<br/>
-- **Help | Guidance |Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
-- Looking for 💬 **Data | Images | Quality-Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF->Text | Image->Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS-Table | S3, FTP, and many more.**<br/>
+- Am looking to get hire : CTO, Senior Project Manager, IT Consulation. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
+- 💬 We can work together in **Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
+- **Help | Guidance | Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
+- Looking for 💬 **Data (Reviews, Prices, Tokens, Historical, ...)| Images | Quality - Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF -> Text | Image -> Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS - Table | S3, FTP, and many more.**<br/>
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures<br/>
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
 - 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/ Web-Scraping/ Anti-Scraping/PersonalMentor/Leadership Skills...**<br/>
-- 💬 How to reach me **[https://www.linkedin.com/in/anish-chapagain-a581386/]**
+- 💬  Explore me: **[https://www.linkedin.com/in/anish-chapagain-a581386/]**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a>
 </p>
 <hr/> 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Publications:</h3>
 <p align="left">
 <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="150" width="120"/></a>
 <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="150" width="120"/></a>
 </p>
 <hr />
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://www.lazorpoint.com/hubfs/graphics/2019/New%20New%20Icons/Protect%20Your%20Business%20from%20Cyber%20Threats.png" height="70" width="100" alt="CyberSecurity"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FnESRwox2kMk5w31HJwvcn_ouerefsn-Ww&usqp=CAU" height="70" width="100" alt="Ansible"/>
@@ -52,8 +62,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchapagain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 <hr/>
 <p align="left">
- <img src="https://play-lh.googleusercontent.com/mUlaWjQsKr6guWoqSbax57X6gRq9qxWFfA0W_Sury0aV4fqF23mc1Lzkbt2Hrnpj2A" width="140" height="160" alt="Sadhguru"/>
+<i>Life is fluid, ever-evolving ..... Whatever your goal in life, unless you develop a great urgency, what could be near will be far away</i><img src="https://play-lh.googleusercontent.com/mUlaWjQsKr6guWoqSbax57X6gRq9qxWFfA0W_Sury0aV4fqF23mc1Lzkbt2Hrnpj2A" width="140" height="160" alt="Sadhguru"/>
 </p>
+<hr/>
 <p align="left">
 - Education: **Araniko Boarding School - Biratnagar, Nepal | Jyoti English School - Dhangadi, Nepal | Siddhartha Vanasthali Institute - Kathmandu, Nepal | Campion College - Kathmandu, Nepal | Himalayan Whitehouse College - Kathmandu, Nepal | Bangor University - Bangor,Wales,UK**
 </p>
