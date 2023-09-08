@@ -11,7 +11,7 @@
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures<br/>
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
 - 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/ Web-Scraping/ Anti-Scraping/PersonalMentor/Leadership Skills...**<br/>
-- 💬 How to reach me **[[http://www.anishchapagain.com](https://www.linkedin.com/in/anish-chapagain-a581386/)]**
+- 💬 How to reach me **[https://www.linkedin.com/in/anish-chapagain-a581386/]**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +20,10 @@
 <hr/> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="130" width="100"/></a>
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="130" width="100"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/first.jpg" height="150" width="120"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="http://www.anishchapagain.com/second.jpg" height="150" width="120"/></a>
 </p>
+<hr />
 <p align="left">
 <img src="https://www.lazorpoint.com/hubfs/graphics/2019/New%20New%20Icons/Protect%20Your%20Business%20from%20Cyber%20Threats.png" height="70" width="100" alt="CyberSecurity"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FnESRwox2kMk5w31HJwvcn_ouerefsn-Ww&usqp=CAU" height="70" width="100" alt="Ansible"/>
