@@ -2,9 +2,9 @@
 <h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
 <hr/>
 <ul>
-<li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b>—Sadhguru</b></i></li>
-<li><i>“The measure of intelligence is the ability to change”<b>— Albert Einstein</b></i></li>
-<li><i>"Knowledge is a treasure, but practice is the key to it"<b>—Thomas Fuller</b></i></li>
+<li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b> Sadhguru</b></i></li>
+<li><i>“The measure of intelligence is the ability to change”<b> Albert Einstein</b></i></li>
+<li><i>"Knowledge is a treasure, but practice is the key to it"<b> Thomas Fuller</b></i></li>
 </ul>
 <hr/>
 <h3 align="left"> Can't ignore </h3>
