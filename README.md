@@ -25,7 +25,7 @@
 - 📫 Facing trouble from **Amazon_Captcha/CSRF/CAPTCHAs/GraphQL/JS/Proxies** or any **Web Security** Related Measures<br/>
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
 - 📫 Willing to get trained in **Python/Django/Flask/Selenium/ML/AI/DataScience/ Web-Scraping/ Anti-Scraping/PersonalMentor/Leadership Skills...**<br/>
-- 💬  Explore me: **[https://www.linkedin.com/in/anish-chapagain-a581386]**
+- 💬  Explore me: https://www.linkedin.com/in/anish-chapagain-a581386
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
