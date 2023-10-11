@@ -35,7 +35,7 @@
 <h3 align="left">Publications:</h3>
 <p align="left">
 <a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="https://static.packt-cdn.com/products/9781789533392/cover/smaller"/></a>
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1837636211"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-techniques-dp-1837636214/dp/1837636214"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
 </p>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
