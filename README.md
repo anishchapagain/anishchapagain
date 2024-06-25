@@ -18,8 +18,8 @@
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
-- Am looking to get hire : CTO, Senior Project Manager, IT Consulation. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
-- 💬 We can work together in **Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
+- Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
+- 💬 We can work together in **GenAI, Responsible AI, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
 - **Help | Guidance | Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
 - Looking for 💬 **Data (Reviews, Prices, Tokens, Historical, ...) | Images | Quality - Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF -> Text | Image -> Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS - Table | S3, FTP, and many more.**<br/>
 - 📫 Facing trouble from **Amazon Captcha / CSRF / Cloudflare / CAPTCHAs / GraphQL / JS / Proxies** or any **Web Security** Related Measures<br/>
