@@ -40,12 +40,11 @@
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" height="100" width="140" alt="HuggingFace">
-<img src="" height="100" width="100" alt="OpenAI">
-<img src="" height="100" width="100" alt="Gemini">
-<img src="" height="100" width="100" alt="LangChain"/>
-<img src="" height="100" width="100" alt="GenAI"/>
-<img src="" height="100" width="100" alt="GCP">
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" height="100" width="180" alt="HuggingFace">
+<img src="https://freelogopng.com/images/all_img/1681142235openai-logo-png.png" height="90" width="160" alt="OpenAI">
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="100" width="120" alt="Google Gemini">
+<img src="https://miro.medium.com/v2/resize:fit:700/1*-PlFCd_VBcALKReO3ZaOEg.png" height="120" width="220" alt="LangChain"/>
+<img src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" height="120" width="180" alt="GCP">
 <img src="https://www.lazorpoint.com/hubfs/graphics/2019/New%20New%20Icons/Protect%20Your%20Business%20from%20Cyber%20Threats.png" height="70" width="100" alt="CyberSecurity"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FnESRwox2kMk5w31HJwvcn_ouerefsn-Ww&usqp=CAU" height="70" width="100" alt="Ansible"/>
 <a href="https://spark.apache.org/"><img src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png" height="70" width="100"/></a>
