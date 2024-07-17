@@ -1,17 +1,7 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
-<h3 align="center">Learning, Seeking experience & challenging position in the field of Data Science conducive to growth, where I will consolidate, utilize & further use/explore my Management & IT based skills using latest technologies.</h3>
+<p align="center"><u>Actively seeking new opportunities</u> | Looking for challenging AI/ML/Data Science/Leading positions to leverage and expand my management and IT skills with cutting-edge technologies, fostering personal and professional growth.</p>
 <hr/>
-<ul>
-<li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b> Sadhguru</b></i></li>
-<li><i>“The measure of intelligence is the ability to change”<b> Albert Einstein</b></i></li>
-<li><i>"Knowledge is a treasure, but practice is the key to it"<b> Thomas Fuller</b></i></li>
-</ul>
-<hr/>
-<h3 align="left"> Can't ignore </h3>
-<p align="left">
-<i>honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
-</p>
-<h3 align="left"> Projects are life-less without </h3>
+<h3 align="left">Projects are life-less without </h3>
 <p align="left">
 <i> planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. </i>
 </p>
@@ -19,13 +9,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
 - Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
-- 💬 We can work together in **GenAI, Responsible AI, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
+- 💬 We can work together in **GenAI, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
 - **Help | Guidance | Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
 - Looking for 💬 **Data (Reviews, Prices, Tokens, Historical, ...) | Images | Quality - Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF -> Text | Image -> Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS - Table | S3, FTP, and many more.**<br/>
 - 📫 Facing trouble from **Amazon Captcha / CSRF / Cloudflare / CAPTCHAs / GraphQL / JS / Proxies** or any **Web Security** Related Measures<br/>
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
 - 📫 Willing to get trained in **Python / Django / Flask / Selenium / ML / AI / Data Science / Web-Scraping / Anti-Scraping / Personal Mentor / Leadership Skills...**<br/>
-- 💬  Explore me: https://www.linkedin.com/in/anish-chapagain-a581386
+- 💬 Explore me: https://www.linkedin.com/in/anish-chapagain-a581386
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +28,16 @@
 <a href="https://www.amazon.com/Hands-Web-Scraping-Python-techniques-dp-1837636214/dp/1837636214"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
 </p>
 <hr />
+<ul>
+<li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b> Sadhguru</b></i></li>
+<li><i>“The measure of intelligence is the ability to change”<b> Albert Einstein</b></i></li>
+<li><i>"Knowledge is a treasure, but practice is the key to it"<b> Thomas Fuller</b></i></li>
+</ul>
+<hr/>
+<h3 align="left"> Can't ignore </h3>
+<p align="left">
+<i>honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" height="100" width="180" alt="HuggingFace">
@@ -75,12 +75,8 @@
 <img src="https://play-lh.googleusercontent.com/mUlaWjQsKr6guWoqSbax57X6gRq9qxWFfA0W_Sury0aV4fqF23mc1Lzkbt2Hrnpj2A" width="140" height="160" alt="Sadhguru"/>
 </p>
 <hr/>
-<p align="left">
-- Education: **Araniko Boarding School - Biratnagar, Nepal | Jyoti English School - Dhangadi, Nepal | Siddhartha Vanasthali Institute - Kathmandu, Nepal | Campion College - Kathmandu, Nepal | Himalayan Whitehouse College - Kathmandu, Nepal | Bangor University - Bangor,Wales,UK**
-</p>
+<p style="font-size: 8px;"><i style="font-weight: bold;"> Data Science </i>| Data Analysis | Deep Learning | <i style="font-weight: bold;">Perceptron</i> | Backpropagation | Multilayer Perceptron | Gradient Descent | Stochastic Gradient | Optimizer | Photo Receptors | Associators | Responders | Visualization | Data Cleaning | Data Mining | Knowledge Management | <i style="font-weight: bold;">Transformers</i> | Machine Learning | Neural Networks | Artificial NN | ANN | Recurrent Neural Network | RNN | BERT | GPT | Huggingface | Pipeline | Jupyter Notebook | ipynb | Python | Loss function | Bias | Weight | Retrival Augemented Generative | LLM | Sigmoid | <i style="font-weight: bold;">Rectified Linear Unit</i>| ReLU | CUDA | NVIDIA | ChatGPT | Gemini | <i style="font-weight: bold;">Attention</i> | Embedding | RAG | Knowledge Graphs | k-NN | Nearest Neighbors | Regression | Classification | Embeddings | Fine-tune | unembedding | Temperature | OPENAI_API_KEY | API_KEY | Finetuning | prompt | <i style="font-weight: bold;">Accuracy</i> | precision | recall | F1-score | confusion matrix | MNIST | Vector | LSTM | pretrain | BRNN | <i style="font-weight: bold;">Token</i> | Decision Tree | Support Vector Machines | SVM | GPT | Generative pretrained transformers | Incremental Learning | Batch Learning | Neural Networks | <i style="font-weight: bold;">Activation</i> | Generative Adversial Network | GAN | Convolutional NN | CNN | <i style="font-weight: bold;">PyTorch</i> | Gradio | Panel | Q&A | LangChain | Google Colab | Models | AI - ML - NN - DL - GenAI - LLM NLP | Natural Language Processing | <i style="font-weight: bold;">NLP</i> | Natural Language Understanding | Natural Language Generation | NLU | NLG | <i style="font-weight: bold;">Tensor</i> | Large Language Models | LLMs | Generative AI | GenAI | Westindies | Italy | Football | Technological | Automation | 1789533392 | 9781789533392 | Packt Publishing | 1837636211 | 9781837636211 | Web Scraping | quality data | <i style="font-weight: bold;">Data Extraction</i> | OCR | Optical Character Recognition | Google Cloud | AWS | Sentiment Analysis | Summarization | Naive Bayes</i></p>
 <hr/>
-<p><small><i> Westindies | Cricket | Italy | Football | Middletown - CT | Brian Lara | Nicholos Pooran | Lendl Simmons | Chris Gayle | Dwayne Bravo | Champion | Carl Hooper | Johnson Charles | Marlon Samuels | Sunil Narine | Andrew Fletcher | Andre Russell | WT20 2016 | Dwayne Smith | Shai Hope | Curtly Ambrose | Courtney Walsh | Carlos Braithwaite | 19 of final over | 4 sixes | The Big Bull | Mahadev | Saraswati | Peter | Undertaker | Jaggi Basudev | Shivnarine | Chanderpaul | Buffon | Baggio | Zidane | Stratford | Bangor | New Delhi | MysticNepal | Technological | Automation | 1789533392 | 9781789533392 | Packt Publishing | 1837636211 | 9781837636211 | Sauraha | Rhino | Bear | Elephant | Crocodile | Peacock | Wild Boar</i></small></p>
-<hr />
-<center>
- <img src="http://www.anishchapagain.com/qrcode.png" alt="Pay Anish Chapagain" width="200" height="200" />
-</center>
+<p align="left">
+Education: **Araniko Boarding School - Biratnagar, Nepal | Jyoti English School - Dhangadi, Nepal | Siddhartha Vanasthali Institute - Kathmandu, Nepal | Campion College - Kathmandu, Nepal | Himalayan Whitehouse College - Kathmandu, Nepal | Bangor University - Bangor,Wales,UK**
+</p>
