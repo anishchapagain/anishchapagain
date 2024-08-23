@@ -16,6 +16,7 @@
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
 - 📫 Willing to get trained in **Python / Django / Flask / Selenium / ML / AI / Data Science / Web-Scraping / Anti-Scraping / Personal Mentor / Leadership Skills...**<br/>
 - 💬 Explore me: https://www.linkedin.com/in/anish-chapagain-a581386
+- For projects lets catch up at: <a href="https://contra.com/anishchapagain_bnq88zjm">Contra - Anish Chapagain</a>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
