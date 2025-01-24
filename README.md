@@ -1,20 +1,20 @@
 <h1 align="center">Namaste, Anish Chapagain</h1>
 <p align="center"><u>Actively seeking new opportunities</u> | Looking for challenging AI/ML/Data Science/Leading positions to leverage and expand my management and IT skills with cutting-edge technologies, fostering personal and professional growth.</p>
 <hr/>
-<h3 align="left">Projects are life-less without </h3>
+<h3 align="left">Projects are life-less without: </h3>
 <p align="left">
-<i> planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. </i>
+<i> AI, GenAI, Prompt Engineering, Agents, planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. </i>
 </p>
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
 - Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
-- 💬 We can work together in **GenAI, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
-- **Help | Guidance | Project on -- Selenium, Splash, Puppeteer, PlayWright**<br/>
+- 💬 We can work together in **GenAI, Agentic AI, RAG, Prompt Engineering, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
+- **Help | Guidance | Project on -- GenAI, Agentic AI, Selenium, Splash, Puppeteer, PlayWright**<br/>
 - Looking for 💬 **Data (Reviews, Prices, Tokens, Historical, ...) | Images | Quality - Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF -> Text | Image -> Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS - Table | S3, FTP, and many more.**<br/>
 - 📫 Facing trouble from **Amazon Captcha / CSRF / Cloudflare / CAPTCHAs / GraphQL / JS / Proxies** or any **Web Security** Related Measures<br/>
 - 📫 Looking for **Data Analysis, QA on DataSet, EDA reports, Visualization DashBoard (Flask/Plotly), Historical Data, ML Modelling, Time Series Data, ServerLog Analysis...**<br/>
-- 📫 Willing to get trained in **Python / Django / Flask / Selenium / ML / AI / Data Science / Web-Scraping / Anti-Scraping / Personal Mentor / Leadership Skills...**<br/>
+- 📫 Willing to get trained in **Agentic AI, RAG, LangChain, Python / Django / Flask / Selenium / ML / AI / Data Science / Web-Scraping / Anti-Scraping / Personal Mentor / Leadership Skills...**<br/>
 - 💬 Explore me: https://www.linkedin.com/in/anish-chapagain-a581386
 - For projects lets catch up at: <a href="https://contra.com/anishchapagain_bnq88zjm">Contra - Anish Chapagain</a>
 <hr/>
