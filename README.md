@@ -3,9 +3,9 @@
 <hr/>
 <h3 align="left">Projects are life-less without: </h3>
 <p align="left">
-<i> AI, GenAI, Prompt Engineering, Agents, planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. </i>
+<i> AI, GenAI, Prompt Engineering, Agents, planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. <b>YOU</b></i>
 </p>
-<h2>Actively seeking Research & Phd opportunities</h2>
+<h1>Actively seeking Research & Phd opportunities</h1>
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
