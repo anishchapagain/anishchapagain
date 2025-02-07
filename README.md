@@ -3,7 +3,7 @@
 <hr/>
 <h3 align="left">Projects are life-less without: </h3>
 <p align="left">
-<i> AI, GenAI, Prompt Engineering, Agents, planning, task supervision, thorough training, commitment delegation, mathematical analysis, specialization, standardization, reporting, visualization, .. <b>YOU</b></i>
+<i><b>AI, GenAI, Prompt Engineering, Agents, Planning, Task supervision, Training, Commitment delegation, Data Science, Mathematical analysis, Specialization, Standardization, Reporting, Visualization, & <u> YOU </u></b></i>
 </p>
 <h1>Actively seeking Research & Phd opportunities</h1>
 <hr/>
