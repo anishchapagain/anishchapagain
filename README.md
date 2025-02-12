@@ -8,6 +8,7 @@
 <h1>Seeking: Research & PhD Opportunities</h1>
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
 <hr/>
 - Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
 - 💬 We can work together in **GenAI, Agentic AI, RAG, Prompt Engineering, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
