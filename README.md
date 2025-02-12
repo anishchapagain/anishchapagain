@@ -7,14 +7,23 @@
 </p>
 <h1>Seeking: Research & PhD Opportunities</h1>
 <hr/>
-<p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=plastic" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=plastic" alt="PyCharm"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=plastic" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=plastic" alt="Django"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square " alt="Apache Spark"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=plastic" alt="Selenium"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=plastic" alt="LangChain"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=plastic" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDb"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic" alt="Anaconda"/>
 <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=plastic" alt="JWT"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a>
+</p>
 <hr/>
 - Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
 - 💬 We can work together in **GenAI, Agentic AI, RAG, Prompt Engineering, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
