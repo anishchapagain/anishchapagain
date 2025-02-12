@@ -5,7 +5,8 @@
 <p align="left">
 <i><b>AI, GenAI, Prompt Engineering, Agents, Planning, Task supervision, Training, Commitment delegation, Data Science, Mathematical analysis, Specialization, Standardization, Reporting, Visualization, & <u> YOU </u></b></i>
 </p>
-<h1>Seeking: Research & PhD Opportunities</h1>
+[![Seeking: Research & PhD Opportunities]()]()
+<!--<h1>Seeking: Research & PhD Opportunities</h1>-->
 <hr/>
 <p><img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a></p>
 <hr/>
