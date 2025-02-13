@@ -114,10 +114,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishchapagain&" alt="anishchapagain" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchapagain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 <hr/>
-<center>
-<img src="https://github.com/anishchapagain/anishchapagain.github.io/blob/master/word_cloud_genAI_AI_ML.png" height="350" width="450"/>
-<img src="https://github.com/anishchapagain/anishchapagain.github.io/blob/master/word_cloud_web_AI_ML.png" height="350" width="450"/>
-</center>
+<p align="left">
+<a href="https://learn.deeplearning.ai/accomplishments/2c20c994-629c-41d4-9e44-cc6391e2102e?usp=sharing">ChatGPT Prompt Learning</a>
+<a href="https://learn.deeplearning.ai/accomplishments/d4815dc3-b9fe-4c90-967a-5aa784889aa5?usp=sharing">LangChain for LLM Application Development!</a>
+<a href="https://learn.deeplearning.ai/accomplishments/c11527c3-cf37-4ea0-9a47-56b78e06f284?usp=sharing">LangChain Chat with Your Data</a>
+<a href="https://learn.deeplearning.ai/accomplishments/df5054d9-ab6a-44df-a6e3-515b22a20546?usp=sharing">Generative AI for Everyone</a>
+<a href="https://learn.deeplearning.ai/accomplishments/ddbdee65-fc29-4df9-8178-7fcb2313802b?usp=sharing">How Transformer LLMs Work</a>
+</p>
 </hr>
 <p style="font-size: 8px;"><strong>Data Science</strong>, Agentic AI, RAG, Prompt Engineering, Data Analysis , Deep Learning , <strong>Perceptron</strong> , Backpropagation , Multilayer Perceptron , Gradient Descent , <strong>Stochastic Gradient</strong> , Optimizer , Photo Receptors , <strong>Associators</strong> , Responders , Visualization , Data Cleaning , Data Mining , <strong>Knowledge Management</strong>, <strong>Transformers</strong> , Machine Learning , Neural Networks , Artificial NN , ANN , Recurrent Neural Network , BERT , GPT , <strong>Huggingface</strong> , Pipeline , Jupyter Notebook , ipynb , <strong>Python</strong> , Loss function , Bias , Weight , Retrival Augemented Generative , LLM , Sigmoid , <strong>Rectified Linear Unit</strong>, ReLU , CUDA , NVIDIA , ChatGPT , Gemini , <strong>Attention</strong> , Embedding , RAG , Knowledge Graphs , k-NN , Nearest Neighbors , Regression , <strong>Classification</strong> , Embeddings , Fine-tune , unembedding , Temperature , OPENAI_API_KEY , API_KEY , Finetuning , prompt , <strong>Accuracy</strong> , precision , recall , F1-score , <strong>confusion matrix</strong> , MNIST , Vector , LSTM , pretrain , BRNN , <strong>Token</strong> , Decision Tree , Support Vector Machines , SVM , GPT , Generative pretrained transformers , Incremental Learning , Batch Learning , Neural Networks , <strong>Activation</strong> , Generative Adversial Network , GAN , Convolutional NN , CNN , <strong>PyTorch</strong> , Gradio , Panel , Q&A , LangChain , Google Colab , Models , <strong>AI - ML - NN - DL - GenAI - LLM NLP</strong> , Natural Language Processing , <strong>NLP</strong> , Natural Language Understanding , Natural Language Generation , NLU , NLG , <strong>Tensor</strong> , Large Language Models , LLMs , Generative AI , GenAI , Westindies , Italy , Football , Technological , Automation , 1789533392 , 9781789533392 , Packt Publishing , 1837636211 , 9781837636211 , Web Scraping , quality data , <strong>Data Extraction</strong> , OCR , Optical Character Recognition , Google Cloud , AWS , Sentiment Analysis , Summarization , Naive Bayes</strong></p>
 <hr/>
