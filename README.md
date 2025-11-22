@@ -3,7 +3,7 @@
 <hr/>
 <h3 align="left">Projects are life-less without: </h3>
 <p align="left">
-<i><b>AI, GenAI, Prompt Engineering, Agents, Planning, Task supervision, Training, Commitment delegation, Data Science, Mathematical analysis, Specialization, Standardization, Reporting, Visualization, & <u> YOU </u></b></i>
+<i><b><u>Research</u>, AI, GenAI, Prompt Engineering, Agents, Planning, Task supervision, Training, Commitment delegation, Data Science, Mathematical analysis, Specialization, Standardization, Reporting, Visualization, & <u> YOU </u></b></i>
 </p>
 <h1>Interested in Research and Development</h1>
 <hr/>
@@ -25,7 +25,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a>
 </p>
 <hr/>
-- Am looking to get hire : CTO, Project Manager, Engineering Manager, IT | AI Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
+-  AI/ML/Data Science - Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
 - 💬 We can work together in **GenAI, Agentic AI, RAG, Prompt Engineering, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
 - **Help | Guidance | Project on -- GenAI, Agentic AI, Selenium, Splash, Puppeteer, PlayWright**<br/>
 - Looking for 💬 <b>Data (Reviews, Prices, Tokens, Historical, Time Series, ...) | Images | Quality - Data | BigData | Web Scraping | Mobile App Scraping | REGEX - XPath - CSS Selector | Daily/Hourly/On Schedule | PDF -> Text | Image -> Text from any websites, in any format CSV | JSON | Sqlite3 | RDBMS - Table | S3, FTP, and many more.</b><br/>
