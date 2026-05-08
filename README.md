@@ -7,8 +7,9 @@ Available for consulting, training, and collaborative projects across the full A
 <p align="center">
   <a href="mailto:anishchapagain@gmail.com">📧 anishchapagain@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/anish-chapagain-a581386">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=UjJFtuIAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://www.amazon.com/stores/author/B07T1SXRDL">Amazon Profile</a> ·
   <a href="https://contra.com/anishchapagain_bnq88zjm">Contra</a> ·
-  <a href="https://scholar.google.com/citations?user=UjJFtuIAAAAJ&hl=en">Google Scholar</a>
 </p>
 <hr/>
 
@@ -68,7 +69,12 @@ Python · Django · Flask · Shell Scripting · Regex · XPath · CSS Selectors 
 <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=plastic" alt="JWT"/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishchapagain" alt="anishchapagain" /></a>
 </p>
-<hr/>
+<h3 align="left">Publications:</h3>
+<p align="center">
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="https://static.packt-cdn.com/products/9781789533392/cover/smaller"/></a>
+<a href="https://www.amazon.com/Hands-Web-Scraping-Python-techniques-dp-1837636214/dp/1837636214"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
+</p>
+</hr>
 -  AI/ML/Data Science - Consultant, Instructor. Contact me: **[<b>anishchapagain(at)gmail(dot)com</b>]**<br/>
 - 💬 We can work together in **GenAI, Agentic AI, RAG, Prompt Engineering, Responsible AI, Reverse Engineering, NLP, Data Analysis, Regular Expression, EDA, Regularization, Shell Scripting, Python programming, Cybersecurity, Visualization, Reporting, XML Query, CSS Selector, Web Scraping, Crawlers, App Scraping, Automation, DashBoards, Django, Flask, MLOps, AI, Data Science - Engineering - Analysis, Quality Analysis**<br/>
 - **Help | Guidance | Project on -- GenAI, Agentic AI, Selenium, Splash, Puppeteer, PlayWright**<br/>
@@ -79,17 +85,6 @@ Python · Django · Flask · Shell Scripting · Regex · XPath · CSS Selectors 
 - 💬 Explore my profile: <a href="https://www.linkedin.com/in/anish-chapagain-a581386">Anish Chapagain</a>
 - For projects lets catch up at: <a href="https://contra.com/anishchapagain_bnq88zjm">Contra - Anish Chapagain</a>
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://np.linkedin.com/in/anish-chapagain-a581386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/anish-chapagain-a581386" height="40" width="50" /></a>
-</p>
-<hr/> 
-<h3 align="left">Publications:</h3>
-<p align="center">
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-operations/dp/1789533392"><img src="https://static.packt-cdn.com/products/9781789533392/cover/smaller"/></a>
-<a href="https://www.amazon.com/Hands-Web-Scraping-Python-techniques-dp-1837636214/dp/1837636214"><img src="https://static.packt-cdn.com/products/9781837636211/cover/smaller"/></a>
-</p>
-<hr />
 <ul>
 <li><i>"Life is fluid, ever-evolving..Whatever your goal in life, unless you develop a great urgency, what could be near will be far away"<b> Sadhguru</b></i></li>
 <li><i>“The measure of intelligence is the ability to change”<b> Albert Einstein</b></i></li>
@@ -98,34 +93,34 @@ Python · Django · Flask · Shell Scripting · Regex · XPath · CSS Selectors 
 <hr/>
 <h3 align="left"> Can't ignore </h3>
 <p align="left">
-<i>honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
+<i>ethics, honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" height="100" width="180" alt="HuggingFace">
-<img src="https://freelogopng.com/images/all_img/1681142235openai-logo-png.png" height="90" width="160" alt="OpenAI">
-<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="100" width="120" alt="Google Gemini">
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" height="100" width="180" alt="HuggingFace"/>
+<img src="https://freelogopng.com/images/all_img/1681142235openai-logo-png.png" height="90" width="160" alt="OpenAI"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="100" width="120" alt="Google Gemini"/>
 <img src="https://miro.medium.com/v2/resize:fit:700/1*-PlFCd_VBcALKReO3ZaOEg.png" height="120" width="220" alt="LangChain"/>
-<img src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" height="120" width="180" alt="GCP">
+<img src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" height="120" width="180" alt="GCP"/>
 <img src="https://www.lazorpoint.com/hubfs/graphics/2019/New%20New%20Icons/Protect%20Your%20Business%20from%20Cyber%20Threats.png" height="70" width="100" alt="CyberSecurity"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4FnESRwox2kMk5w31HJwvcn_ouerefsn-Ww&usqp=CAU" height="70" width="100" alt="Ansible"/>
 <img src="https://spark.apache.org/docs/latest/img/spark-logo-hd.png" height="70" width="100"/>
-<img src="https://spark.apache.org/images/scikit-learn.png" height="70" width="100">
-<img src="https://spark.apache.org/images/pandas.png" height="70" width="100">
-<img src="https://spark.apache.org/images/tableau-logo-tableau-software.png" height="70" width="100">
-<img src="https://logowik.com/content/uploads/images/jenkins8460.jpg" height="70" width="100" alt="Jenkins">
-<img src="https://spark.apache.org/images/PowerBI-Logo-Square-Insight-Platforms.png" height="70" width="100">
-<img src="https://spark.apache.org/images/Elasticsearch.png" height="70" width="100">
-<img src="https://spark.apache.org/images/1280px-Cassandra_logo.png" height="70" width="100">
-<img src="https://spark.apache.org/images/AirflowLogo.png" height="70" width="100">
+<img src="https://spark.apache.org/images/scikit-learn.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/pandas.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/tableau-logo-tableau-software.png" height="70" width="100"/>
+<img src="https://logowik.com/content/uploads/images/jenkins8460.jpg" height="70" width="100" alt="Jenkins"/>
+<img src="https://spark.apache.org/images/PowerBI-Logo-Square-Insight-Platforms.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/Elasticsearch.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/1280px-Cassandra_logo.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/AirflowLogo.png" height="70" width="100"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="70" width="100"/>
 <img src="https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1654520880675-FN8VWWY75W05JYW6VWAW/terraform.png?format=300w" alt="Terraform" height="70" width="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="70" width="100"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="70" width="100"/>
-<img src="https://spark.apache.org/images/tf_logo_social.png" height="70" width="100">
-<img src="https://spark.apache.org/images/pytorch.png" height="70" width="100">
-<img src="https://spark.apache.org/images/mlflow-logo.png" height="70" width="100">
-<img src="https://spark.apache.org/images/superset.png" height="70" width="100">
+<img src="https://spark.apache.org/images/tf_logo_social.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/pytorch.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/mlflow-logo.png" height="70" width="100"/>
+<img src="https://spark.apache.org/images/superset.png" height="70" width="100"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="70" width="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="70" width="100"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="70" width="166"/>
