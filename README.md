@@ -1,11 +1,55 @@
-<h1 align="center">Namaste, Anish Chapagain</h1>
-<p align="center"><u>Actively seeking new opportunities</u> | Looking for challenging AI/ML/Data Science/Leading positions to leverage and expand my management and IT skills with cutting-edge technologies, fostering personal and professional growth.</p>
-<hr/>
-<h3 align="left">Projects are life-less without: </h3>
-<p align="left">
-<i><b><u>Research</u>, AI, GenAI, Prompt Engineering, Agents, Planning, Task supervision, Training, Commitment delegation, Data Science, Mathematical analysis, Specialization, Standardization, Reporting, Visualization, & <u> YOU </u></b></i>
+<h1 align="center">Anish Chapagain</h1>
+<p align="center"><b>AI/ML Leader · Author · Lecturer · Instructor/Consultant · Open to Opportunities · Researcher</b></p>
+<p align="center">
+Research-driven technologist bridging scientific rigor with applied AI leadership.<br/>
+Available for consulting, training, and collaborative projects across the full AI/data stack.
 </p>
-<h1>Interested in Research and Development</h1>
+<p align="center">
+  <a href="mailto:anishchapagain@gmail.com">📧 anishchapagain@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/anish-chapagain-a581386">LinkedIn</a> ·
+  <a href="https://contra.com/anishchapagain_bnq88zjm">Contra</a> ·
+  <a href="https://scholar.google.com/citations?user=UjJFtuIAAAAJ&hl=en">Google Scholar</a>
+</p>
+<hr/>
+
+> *"The best projects live at the intersection of scientific curiosity, disciplined management, and the people brave enough to pursue both."*
+
+<hr/>
+
+### Three pillars I work across
+
+| 🔬 Science | 🧠 AI & Research | 👥 Management |
+|---|---|---|
+| Mathematical modeling, statistical analysis, experimental design, data-driven hypothesis validation | GenAI, prompt engineering, agentic planning, model training, specialization & fine-tuning | Task supervision, commitment delegation, standardization, team planning & cross-functional reporting |
+
+<hr/>
+
+### What I bring to a team
+🔭 **Scientific rigor in AI work** — applying mathematical analysis and structured experimentation to ML pipelines, not just intuition.
+
+📊 **Data science with business impact** — translating complex findings into clear visualizations and reports that drive decisions at every level.
+
+🗂️ **Leadership grounded in process** — delegating with clarity, standardizing workflows, and supervising delivery across multi-disciplinary teams.
+
+<hr/>
+
+### 🎓 Training & Mentorship available in
+`Agentic AI` `RAG` `LangChain` `Generative AI` `NLP` `Python` `ML/AI` `Web Scraping` `Neural Networks` `Prompt Engineering` `FastAPI` `Django` `Selenium` `Anti-Scraping` `Data Science` `Leadership Skills` `Personal Mentorship`
+`Reverse Engineering`
+<hr/>
+
+### 🧠 AI & GenAI
+GenAI · Agentic AI · AI Agents · AutoGen · Gemini API · RAG · Prompt Engineering · Responsible AI · Reverse Engineering · NLP · LangChain · MLOps · Model Training
+
+### 📊 Data Science
+Data Analysis · EDA · Regularization · ML Modelling · Time Series · QA on Datasets · Visualization · Dashboards (Flask/Plotly)
+
+### 🌐 Web Scraping & Data Collection
+Selenium · Playwright · Puppeteer · Splash · Web & App Scraping · Crawlers · Automation · Anti-Scraping · CAPTCHA / Cloudflare / CSRF / GraphQL / JS / Proxy handling
+
+### 💻 Engineering & Dev
+Python · Django · Flask · Shell Scripting · Regex · XPath · CSS Selectors · XML Query · Cybersecurity
+
 <hr/>
 <p>
 <img src="https://komarev.com/ghpvc/?username=anishchapagain&label=PROFILE%20VIEWS&color=0e75b6" alt="anishchapagain"/>
