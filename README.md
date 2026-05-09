@@ -9,6 +9,7 @@ Available for consulting, training, and collaborative projects across the full A
   <a href="https://www.linkedin.com/in/anish-chapagain-a581386">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=UjJFtuIAAAAJ&hl=en">Google Scholar</a> ·
   <a href="https://www.amazon.com/stores/author/B07T1SXRDL">Amazon Profile</a> ·
+  <a href="https://www.packtpub.com/authors/anish-chapagain">Packt Publishing</a> ·
   <a href="https://contra.com/anishchapagain_bnq88zjm">Contra</a> ·
 </p>
 <hr/>
