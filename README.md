@@ -1,5 +1,5 @@
 <h1 align="center">Anish Chapagain</h1>
-<p align="center"><b>AI/ML Leader · Author · Lecturer · Instructor/Consultant · Open to Opportunities · Researcher</b></p>
+<p align="center"><b>Data Science - AI/ML - Leader · Author · Lecturer · Instructor/Consultant · Open to Opportunities · Researcher</b></p>
 <p align="center">
 Research-driven technologist bridging scientific rigor with applied AI leadership.<br/>
 Available for consulting, training, and collaborative projects across the full AI/data stack.
