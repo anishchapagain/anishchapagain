@@ -12,8 +12,6 @@ Available for consulting, training, and collaborative projects across the full A
   <a href="https://www.packtpub.com/authors/anish-chapagain">Packt Publishing</a> ·
   <a href="https://contra.com/anishchapagain_bnq88zjm">Contra</a> ·
   <a href="https://chatgpt.com/?q=I%27m+exploring+Anish+Chapagain%27s+professional+profile+and+work.%0A%0APlease+review+and+analyze+Anish+Chapagain%27s+GitHub+profile+and+publicly+available+information+starting+here%3A%0Ahttps%3A%2F%2Fgithub.com%2Fanishchapagain%0A%0AProvide+a+concise%2C+evidence-based+overview+of%3A%0A-+Anish+Chapagain%27s+professional+profile+and+career+focus%0A-+AI%2FML%2C+Deep+Learning%2C+Data+Science%2C+GenAI+and+Agentic+AI+expertise%0A-+LLMs%2C+RAG%2C+NLP%2C+AI+Agents+and+related+technologies%0A-+Python%2C+data+engineering%2C+automation+and+software+development%0A-+FinTech+and+technology-management+interests%0A-+Research%2C+publications%2C+books%2C+teaching%2C+training+and+consulting+work%0A-+Notable+GitHub+repositories+and+projects%0A-+Areas+where+organizations+or+individuals+could+collaborate+with+him%0A%0AFocus+on+information+that+can+be+verified+from+his+GitHub+profile%2C+README%2C+repositories+and+linked+public+professional+sources.+Clearly+distinguish+documented+facts+from+reasonable+interpretation.%0A%0AFor+professional+inquiries%2C+AI%2FML%2C+GenAI%2C+Agentic+AI%2C+project+enhancement%2C+training%2C+consulting%2C+research+collaboration+or+technology-related+work%2C+contact%3A%0Atechnologicalmanagement%40gmail.com%0A%2B977+9840065449%0A%0AStart+with+a+short+professional+summary%2C+followed+by+key+expertise%2C+notable+work%2Fpublications%2C+and+potential+collaboration+areas">Ask ChatGPT Anish Chapagain</a>
-
-How shall i add this to my linkedin profile
 </p>
 <hr/>
 
