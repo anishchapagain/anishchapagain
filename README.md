@@ -23,7 +23,7 @@ Available for consulting, training, and collaborative projects across the full A
 
 | 🔬 Science | 🧠 AI & Research | 👥 Management |
 |---|---|---|
-| Mathematical modeling, statistical analysis, experimental design, data-driven hypothesis validation | GenAI, MCP, A2A, AP2, prompt engineering, agentic planning, model training, specialization & fine-tuning | Task supervision, commitment delegation, standardization, team planning & cross-functional reporting |
+| Mathematical modeling, statistical analysis, experimental design, data-driven hypothesis validation | GenAI, MCP, A2A, AP2, prompt engineering, agentic planning, model training, specialization & fine-tuning | Leadership, task supervision, commitment delegation, time management, standardization, team planning & cross-functional reporting |
 
 <hr/>
 
@@ -32,7 +32,7 @@ Available for consulting, training, and collaborative projects across the full A
 
 📊 **Data science with business impact** — translating complex findings into clear visualizations and reports that drive decisions at every level.
 
-🗂️ **Leadership grounded in process** — delegating with clarity, standardizing workflows, and supervising delivery across multi-disciplinary teams.
+🗂️ **Leadership grounded in process** — delegating with clarity, standardizing workflows, and supervising delivery across multi-disciplinary teams along time management.
 
 <hr/>
 
@@ -42,7 +42,7 @@ Available for consulting, training, and collaborative projects across the full A
 <hr/>
 
 ### 🧠 AI & GenAI
-GenAI · Agentic AI · AI Agents · AutoGen · Gemini API · RAG · MCP · AP2· A2A · Prompt Engineering · Responsible AI · Reverse Engineering · NLP · LangChain · MLOps · Model Training · FineTuning 
+GenAI · Agentic AI · AI Agents · AutoGen · Gemini API · RAG · MCP · AP2 · A2A · Prompt Engineering · Responsible AI · Reverse Engineering · NLP · LangChain · MLOps · Model Training · FineTuning 
 
 ### 📊 Data Science
 Data Analysis · EDA · Regularization · ML Modelling · Time Series · QA on Datasets · Visualization · Dashboards (Flask/Plotly)
@@ -95,7 +95,7 @@ Python · Django · Flask · Shell Scripting · Regex · XPath · CSS Selectors 
 <hr/>
 <h3 align="left"> Can't ignore </h3>
 <p align="left">
-<i>ethics, honesty, fairness, leadership, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
+<i>ethics, honesty, fairness, leadership, time management, integrity, compassion, respect, responsibility, loyalty, <strike>law-abiding</strike>, transparency, environmental concerns, ..</i>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
